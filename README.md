@@ -1,9 +1,10 @@
 ![Header](https://res.cloudinary.com/di5cg0bcv/image/upload/v1702109797/jooy-gg_h7xvdy.jpg)
 <h1 align="center">Hi 👋, I'm Joydip Banik</h1>
 <h4 align="center">
-	I'm a MERN stack developer. passionate in Frontend development.
+🚀 Passionate MERN Stack Developer | React.js Enthusiast
 </h4>
 <h4 align="center">	
+A dedicated MERN stack developer with a love for crafting seamless and dynamic user experiences using React.js. My journey in web development is fueled by a commitment to innovation and a knack for solving complex problems.
 My experience includes working with a wide range of technologies, from HTML, CSS, and Bootstrap, Tailwind to JavaScript and React. I possess practical knowledge of database design and development, and am comfortable working with NoSQL databases (MongoDB). 
 </h4>
 <br>
