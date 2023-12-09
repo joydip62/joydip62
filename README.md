@@ -34,7 +34,7 @@ My experience includes working with a wide range of technologies, from HTML, CSS
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joydip62&theme=tokyonight" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joydip62&theme=tokyonight" alt="joydip62" /></p>
+<p align="right" ><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joydip62&theme=tokyonight" alt="joydip62" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joydip62&" alt="joydip62" /></p> -->
 
