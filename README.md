@@ -1,4 +1,4 @@
-![Header](https://res.cloudinary.com/di5cg0bcv/image/upload/v1702124718/joydip-linkedin-cover_j3oieh.jpg)
+![Header](https://res.cloudinary.com/di5cg0bcv/image/upload/v1702109797/jooy-gg_h7xvdy.jpg)
 <h1 align="center">Hi 👋, I'm Joydip Banik</h1>
 <h4 align="center">
 🚀 Passionate MERN Stack Developer | React.js Enthusiast
@@ -28,25 +28,33 @@ My experience includes working with a wide range of technologies, from HTML, CSS
 
 ---
 
-<h1 align="center"> Languages and Tools</h1>
-
-
-<img  align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joydip62&theme=tokyonight" />
-
-<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joydip62&theme=tokyonight" alt="joydip62" />
+<h1 align="center">🛠️ Languages and Tools</h1>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joydip62&theme=tokyonight&hide_border=true)](https://git.io/streak-stats" alt="joydip62" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,html,css,bootstrap,tailwind,js,react,nodejs,express,mongodb,firebase" />
+  </a>
 </p>
 
+<br/>
+
+---
+
+<h1 align="center">📊 Contribution Graph</h1>
 
 
+
+<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joydip62&theme=tokyonight" alt="joydip62" />
+
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joydip62&theme=tokyonight" />
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joydip62&theme=tokyonight&hide_border=true)](https://git.io/streak-stats" alt="joydip62" /></p>
 
 <br/>
 
 ---
 <div>
-<h1 align="center">Connect with me:</h1>
+<h1 align="center">🌐 Connect with me</h1>
 
 <div align="center">
 
