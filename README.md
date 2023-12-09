@@ -1,4 +1,4 @@
-![Header](https://res.cloudinary.com/di5cg0bcv/image/upload/v1702109797/jooy-gg_h7xvdy.jpg)
+![Header](https://res.cloudinary.com/di5cg0bcv/image/upload/v1702124718/joydip-linkedin-cover_j3oieh.jpg)
 <h1 align="center">Hi 👋, I'm Joydip Banik</h1>
 <h4 align="center">
 🚀 Passionate MERN Stack Developer | React.js Enthusiast
