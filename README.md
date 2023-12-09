@@ -30,19 +30,16 @@ My experience includes working with a wide range of technologies, from HTML, CSS
 
 <h1 align="center"> Languages and Tools</h1>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,html,css,bootstrap,tailwind,js,react,nodejs,express,mongodb,firebase" />
-  </a>
+<p align="left">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joydip62&theme=tokyonight" />
 </p>
 
-<br/>
+<p>&nbsp;<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joydip62&theme=tokyonight" alt="joydip62" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joydip62&show_icons=true&locale=en&layout=compact" alt="joydip62" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joydip62&" alt="joydip62" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joydip62&show_icons=true&locale=en" alt="joydip62" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joydip62&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joydip62&" alt="joydip62" /></p>
 
 <br/>
 
