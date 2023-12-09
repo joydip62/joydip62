@@ -35,6 +35,16 @@ My experience includes working with a wide range of technologies, from HTML, CSS
   </a>
 </p>
 
+<br/>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joydip62&show_icons=true&locale=en&layout=compact" alt="joydip62" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joydip62&show_icons=true&locale=en" alt="joydip62" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joydip62&" alt="joydip62" /></p>
+
+<br/>
+
 ---
 <div>
 <h1 align="center">Connect with me:</h1>
@@ -54,10 +64,4 @@ My experience includes working with a wide range of technologies, from HTML, CSS
 
 </div>
 
-<br/>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joydip62&show_icons=true&locale=en&layout=compact" alt="joydip62" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joydip62&show_icons=true&locale=en" alt="joydip62" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joydip62&" alt="joydip62" /></p>
+---
