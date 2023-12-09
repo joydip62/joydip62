@@ -13,7 +13,7 @@ My experience includes working with a wide range of technologies, from HTML, CSS
 
 <div align="left">
 
-- 🔧 My top languages & technologies are **ReactJS, JavaScript, Node.js, Express.js, MongoDB, NoSQL, MySQL, HTML, CSS, Bootstrap, Tailwind, daisyUI**
+- 🔧 My top languages & technologies are **ReactJS, JavaScript, Node.js, Express.js, MongoDB, NoSQL, MySQL, Firebase, HTML, CSS, Bootstrap, Tailwind, daisyUI**
 
 - 🏆 My favorite language is: **ReactJS**
 
