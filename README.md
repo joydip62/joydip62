@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](https://res.cloudinary.com/di5cg0bcv/image/upload/v1702109797/jooy-gg_h7xvdy.jpg)
 <h1 align="center">Hi 👋, I'm Joydip Banik</h1>
 <h4 align="center">
 	I'm a MERN stack developer. passionate in Frontend development.
@@ -7,6 +7,10 @@
 My experience includes working with a wide range of technologies, from HTML, CSS, and Bootstrap, Tailwind to JavaScript and React. I possess practical knowledge of database design and development, and am comfortable working with NoSQL databases (MongoDB). 
 </h4>
 <br>
+
+<img align="right" alt="coding" width="400" src="https://res.cloudinary.com/di5cg0bcv/image/upload/v1702108619/programmer_cywoh9.gif">
+
+<div align="left">
 
 - 🔧 My top languages & technologies are **ReactJS, JavaScript, Node.js, NoSQL, SQL, HTML, CSS**
 
@@ -18,7 +22,8 @@ My experience includes working with a wide range of technologies, from HTML, CSS
 
 - 📫 How to reach me **joydipbanik6@gmail.com**
 
-<br/>
+</div>
+<br>
 
 ---
 <div>
