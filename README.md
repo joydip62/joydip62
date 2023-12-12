@@ -1,4 +1,4 @@
-![Header](https://res.cloudinary.com/di5cg0bcv/image/upload/v1702109797/jooy-gg_h7xvdy.jpg)
+![Header](https://i.ibb.co/mGmXZg7/joydip-linkedin-cover-2.jpg)
 <h1 align="center">Hi 👋, I'm Joydip Banik</h1>
 <h4 align="center">
 🚀 Passionate MERN Stack Developer | React.js Enthusiast
@@ -26,6 +26,12 @@ My experience includes working with a wide range of technologies, from HTML, CSS
 </div>
 <br>
 
+<p align="center"> 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=joydip62&theme=tokyonight&hide_border=true)](https://git.io/streak-stats">
+</p>
+
+<br>
+
 ---
 
 <h1 align="center">🛠️ Languages and Tools</h1>
@@ -40,15 +46,19 @@ My experience includes working with a wide range of technologies, from HTML, CSS
 
 ---
 
-<h1 align="center">📊 Contribution Graph</h1>
+<h1 align="center">📊 Summary Cards</h1>
 
-
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joydip62&theme=tokyonight" alt="joydip62" /></p>
 
 <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joydip62&theme=tokyonight" alt="joydip62" />
 
 <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joydip62&theme=tokyonight" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joydip62&theme=tokyonight&hide_border=true)](https://git.io/streak-stats" alt="joydip62" /></p>
+<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joydip62&theme=tokyonight" alt="joydip62" />
+
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joydip62&theme=tokyonight&utcOffset=8" />
+
+
 
 <br/>
 
