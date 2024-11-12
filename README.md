@@ -1,4 +1,4 @@
-![Header](https://i.ibb.co/mGmXZg7/joydip-linkedin-cover-2.jpg)
+
 <h1 align="center">Hi 👋, I'm Joygopal Banik</h1>
 <h4 align="center">
 🚀 Passionate MERN Stack Developer | React.js Enthusiast
