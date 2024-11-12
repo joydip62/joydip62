@@ -21,7 +21,7 @@ My experience includes working with a wide range of technologies, from HTML, CSS
 
 - 👩‍💻 You can view all my projects by checking out my 💼 [Portfolio](https://joydip-portfolio.surge.sh/) or staying right here on my [GitHub](https://github.com/joydip62)
 
-- 📫 How to reach me **joydipbanik6@gmail.com**
+- 📫 How to reach me **joygopalbanik9@gmail.com**
 
 </div>
 <br>
@@ -87,7 +87,7 @@ My experience includes working with a wide range of technologies, from HTML, CSS
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/joydip62)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/joygopal-banik/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joygopalbanik@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joygopalbanik9@gmail.com)
 
 
 
