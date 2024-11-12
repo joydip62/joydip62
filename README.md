@@ -79,15 +79,15 @@ My experience includes working with a wide range of technologies, from HTML, CSS
 
 <div align="center">
 
-<h3>Mr.Joydip😎</h3>  
+<h3>Mr.Joy😎</h3>  
 
 </div>
 
 <div align="center">
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/joydip62)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/joydip-banik-915611171)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joydipbanik6@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/joygopal-banik/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joygopalbanik@gmail.com)
 
 
 
