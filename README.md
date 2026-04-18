@@ -19,7 +19,7 @@ My experience includes working with a wide range of technologies, from HTML, CSS
 
 - 🌱 I'm currently learning more about: **Next.js,Typescript**
 
-- 👩‍💻 You can view all my projects by checking out my 💼 [Portfolio](https://joydip-portfolio.surge.sh/) or staying right here on my [GitHub](https://github.com/joydip62)
+- 👩‍💻 You can view all my projects by checking out my 💼 [Portfolio](https://joygopal-portfolio.surge.sh/) or staying right here on my [GitHub](https://github.com/joydip62)
 
 - 📫 How to reach me **joygopalbanik9@gmail.com**
 
